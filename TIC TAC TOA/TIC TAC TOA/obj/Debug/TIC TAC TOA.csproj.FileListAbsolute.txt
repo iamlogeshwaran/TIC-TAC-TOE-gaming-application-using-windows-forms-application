@@ -1,0 +1,10 @@
+C:\Users\sathish\documents\visual studio 2012\Projects\TIC TAC TOA\TIC TAC TOA\bin\Debug\TIC TAC TOA.exe.config
+C:\Users\sathish\documents\visual studio 2012\Projects\TIC TAC TOA\TIC TAC TOA\bin\Debug\TIC TAC TOA.exe
+C:\Users\sathish\documents\visual studio 2012\Projects\TIC TAC TOA\TIC TAC TOA\bin\Debug\TIC TAC TOA.pdb
+C:\Users\sathish\documents\visual studio 2012\Projects\TIC TAC TOA\TIC TAC TOA\obj\Debug\TIC_TAC_TOA.Form1.resources
+C:\Users\sathish\documents\visual studio 2012\Projects\TIC TAC TOA\TIC TAC TOA\obj\Debug\TIC_TAC_TOA.Properties.Resources.resources
+C:\Users\sathish\documents\visual studio 2012\Projects\TIC TAC TOA\TIC TAC TOA\obj\Debug\TIC TAC TOA.csproj.GenerateResource.Cache
+C:\Users\sathish\documents\visual studio 2012\Projects\TIC TAC TOA\TIC TAC TOA\obj\Debug\TIC TAC TOA.exe
+C:\Users\sathish\documents\visual studio 2012\Projects\TIC TAC TOA\TIC TAC TOA\obj\Debug\TIC TAC TOA.pdb
+C:\Users\sathish\Documents\Visual Studio 2012\Projects\TIC TAC TOA\TIC TAC TOA\obj\Debug\TIC_TAC_TOA.Form3.resources
+C:\Users\sathish\Documents\Visual Studio 2012\Projects\TIC TAC TOA\TIC TAC TOA\obj\Debug\TIC TAC TOA.csprojResolveAssemblyReference.cache
